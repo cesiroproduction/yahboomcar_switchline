@@ -1,4 +1,4 @@
-##Documentație Tehnică: Proiect arm_autopilot
+### Documentație Tehnică: Proiect arm_autopilot
 ## 1. Prezentare Generală a Proiectului
 Proiectul arm_autopilot este un pachet software dezvoltat în cadrul ROS (Robot Operating System), conceput pentru a oferi capabilități de navigație autonomă unui robot mobil (Yahboom). Funcționalitatea centrală constă în detectarea și urmărirea unor linii colorate de pe o suprafață, folosind o cameră video și algoritmi de Computer Vision (OpenCV).
 
